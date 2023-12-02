@@ -1,0 +1,4 @@
+# .gitignore - list of file path patterns not to be tracked by source control
+/vendor
+/.vscode
+
